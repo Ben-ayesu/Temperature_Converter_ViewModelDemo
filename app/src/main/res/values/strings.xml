@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temperature Converter ViewModelDemo</string>
+    <string name="frost">Frost</string>
+</resources>
